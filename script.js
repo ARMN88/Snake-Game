@@ -59,7 +59,7 @@ function setup() {
 function draw() {
   // clear the canvas
   background(0);
-  text(apple.x + " " + apple.y, 10, 30);
+  text("Score: " + snake.tail.length, 10, 30);
 
   if (direction === "right") {
     MoveRight();
