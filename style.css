@@ -3,6 +3,12 @@
   overflow: hidden;
 }
 
-html, body {
+html,
+body {
   background: black;
+  height: 100%;
+  overflow: hidden;
+}
+img {
+  position: absolute;
 }
