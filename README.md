@@ -21,3 +21,4 @@ You can play it here: https://prairie-tall-ounce.glitch.me/
 * Now mobile compatible: Swipe in the direction you want to move.
 * Apple now slightly filckers.
 * Scaled down the game from 40 pixel by 40 pixels to 20 pixels by 20 pixels.
+* Minor Bug Fixes.
